@@ -1,2 +1,1 @@
-# multithreaded-calculation
-Multithreaded calculation
+multithreaded-calculation
